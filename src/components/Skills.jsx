@@ -16,7 +16,7 @@ import { FaDocker } from "react-icons/fa";
 
 const Skills = () => {
   return (
-    <div className="w-full h-screen text-white py-10 flex flex-col justify-center">
+    <div className="w-full h-full text-white py-10 flex flex-col justify-center">
       <h1 className="text-center text-5xl font-semibold">SKILLS</h1>
       <div className="flex items-center flex-col gap-8 mt-8">
         <div className="flex flex-col gap-5 items-center">
